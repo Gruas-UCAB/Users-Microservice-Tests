@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r5pyDzdzS50=",
+  "dgSpecHash": "VrwKkV5XbeQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\ANTONIO\\Desktop\\ProyectoDW-GRUA\\TestUserMicroservice\\TestUserMicroservice.csproj",
   "expectedPackageFiles": [
@@ -59,7 +59,9 @@
     "C:\\Users\\ANTONIO\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\ANTONIO\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
     "C:\\Users\\ANTONIO\\.nuget\\packages\\sprache\\2.3.1\\sprache.2.3.1.nupkg.sha512",
-    "C:\\Users\\ANTONIO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.1.0\\swashbuckle.aspnetcore.swagger.7.1.0.nupkg.sha512",
+    "C:\\Users\\ANTONIO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\ANTONIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\ANTONIO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
     "C:\\Users\\ANTONIO\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\ANTONIO\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\ANTONIO\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
